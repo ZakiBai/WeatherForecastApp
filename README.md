@@ -29,11 +29,5 @@ Welcome to the Weather Forecast App, your go-to companion for up-to-date weather
 - UIKit
 - OpenWeatherMap API
 
-<img src="[https://your-image-url.type](https://github.com/ZakiBai/WeatherForecastApp/assets/40819824/5d4db414-71d6-4996-b995-76594f4d4d84)" width="300 height="500">
-![SearchedCity](https://github.com/ZakiBai/WeatherForecastApp/assets/40819824/a2d41898-a4f8-4432-9989-2540e0e0c780)
-![LocationRequest](https://github.com/ZakiBai/WeatherForecastApp/assets/40819824/6dc79d99-2f81-4362-843f-e305631006a3)
-![Searching](https://github.com/ZakiBai/WeatherForecastApp/assets/40819824/ba7781d7-3c4f-4e24-a7a0-c86b13741c9d)
-![LocationWeather](https://github.com/ZakiBai/WeatherForecastApp/assets/40819824/86c2182d-cf7d-4cef-875b-4b0092969d7a)
-![SearchingAlert](https://github.com/ZakiBai/WeatherForecastApp/assets/40819824/ac7ffa67-d085-41d2-8849-ed13afb3daf5)
 
 
