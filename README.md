@@ -36,3 +36,5 @@ Welcome to the Weather Forecast App, your go-to companion for up-to-date weather
 ![LocationWeather](https://github.com/ZakiBai/WeatherForecastApp/assets/40819824/86c2182d-cf7d-4cef-875b-4b0092969d7a)
 ![SearchingAlert](https://github.com/ZakiBai/WeatherForecastApp/assets/40819824/ac7ffa67-d085-41d2-8849-ed13afb3daf5)
 
+<img src="/[assets/dark_appearance.png](https://github.com/ZakiBai/WeatherForecastApp/assets/40819824/5d4db414-71d6-4996-b995-76594f4d4d84)https://github.com/ZakiBai/WeatherForecastApp/assets/40819824/5d4db414-71d6-4996-b995-76594f4d4d84" alt="Dark Appearance" width="300">
+
